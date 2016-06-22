@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Karen\AndroidStudioProjects\YokaiWatchGuide\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613377a8405178ede04f8ecde4f7692cd8fba0c7">
+        <dex dex="C:\Users\Karen\AndroidStudioProjects\YokaiWatchGuide\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fbcc9711326c0be46e2b1daba0ee9eaf8a7fc64a.jar" />
+    </item>
+
+</items>

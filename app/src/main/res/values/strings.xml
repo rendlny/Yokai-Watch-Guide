@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yokai Watch Guide</string>
+    <string name="home_btn1">Yokai</string>
+    <string name="home_btn2">Food</string>
+    <string name="home_btn3">Items</string>
+    <string name="home_btn4">Quests</string>
+    <string name="home_btn5">Areas</string>
+    <string name="home_btn6">Medals</string>
+</resources>
